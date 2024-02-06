@@ -1,4 +1,4 @@
-# react.js-interview-questions
+
 
 # React Interview Questions & Answers
 
@@ -8,7 +8,7 @@
 
 <div>
 <h3 align="center">
-  React interview
+  React.js interview
  <!--- <a href=https://react.gg/?s=rjsiq>
     <img src="./images/collab/uidev-banner4x.png" alt="React interview" width="100%">
   </a>
