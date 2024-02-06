@@ -2,19 +2,24 @@
 
 # React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@D V Yogesh](https://trymysolution.medium.com/)) for technical updates.
 
 ---
 
 <div>
-<p align="center">
-  <a href=https://react.gg/?s=rjsiq>
+<h3 align="center">
+  React interview
+ <!--- <a href=https://react.gg/?s=rjsiq>
     <img src="./images/collab/uidev-banner4x.png" alt="React interview" width="100%">
   </a>
-</p>
+  -->
+</h3>
 </div>
 
 ---
+<!---
+your comment goes here
+and here
 
 <div>
 <p align="center">
@@ -27,10 +32,10 @@
     </ol>
   </p>
 </div>
-
+-->
 ---
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
+**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/dvyogesh/Javascript-Interview-questions) for core javascript questions.
 
 ### Table of Contents
 
